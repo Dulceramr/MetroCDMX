@@ -21,3 +21,17 @@ Este proyecto forma parte del curso de SQL, MySQL y MariaDB de Platzi, diseñado
 - **MariaDB:** Sistema de gestión de bases de datos relacional utilizado como motor principal.
 - **SQL:** Lenguaje de consulta estructurado para la manipulación y gestión de la base de datos.
 - **MySQL Workbench:** Herramienta de diseño y administración de bases de datos utilizada para modelar y gestionar la base de datos.
+
+## Diagramas de la Base de Datos
+
+### Diagrama Conceptual
+
+![Diagrama Conceptual](images/metroCDMXconceptual.jpg)
+
+En el diagrama conceptual, se presenta una representación visual de las entidades clave y sus relaciones dentro del sistema de gestión del metro. Este diagrama proporciona una visión abstracta de la estructura de la base de datos, destacando las conexiones lógicas entre las diferentes entidades como estaciones, líneas y horarios.
+
+### Diagrama Físico
+
+![Diagrama Físico](images/metroCDMXfisico.jpg)
+
+El diagrama físico refleja la implementación concreta de la base de datos en términos de tablas, columnas, claves primarias y foráneas, así como las relaciones entre ellas. Este diagrama ofrece una visión detallada de la estructura técnica de la base de datos, permitiendo una comprensión más profunda de cómo se almacenan y organizan los datos del sistema del metro.
